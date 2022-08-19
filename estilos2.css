@@ -23,3 +23,10 @@
     animation: alternate;
     background-color: black;
 }
+.nextime{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    animation: alternate;
+    background-color: black;
+}
